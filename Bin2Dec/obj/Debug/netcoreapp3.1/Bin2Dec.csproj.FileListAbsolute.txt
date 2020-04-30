@@ -1,0 +1,11 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos\80Ideias\Bin2Dec\Bin2Dec\bin\Debug\netcoreapp3.1\Bin2Dec.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos\80Ideias\Bin2Dec\Bin2Dec\bin\Debug\netcoreapp3.1\Bin2Dec.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos\80Ideias\Bin2Dec\Bin2Dec\bin\Debug\netcoreapp3.1\Bin2Dec.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos\80Ideias\Bin2Dec\Bin2Dec\bin\Debug\netcoreapp3.1\Bin2Dec.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos\80Ideias\Bin2Dec\Bin2Dec\bin\Debug\netcoreapp3.1\Bin2Dec.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos\80Ideias\Bin2Dec\Bin2Dec\bin\Debug\netcoreapp3.1\Bin2Dec.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos\80Ideias\Bin2Dec\Bin2Dec\obj\Debug\netcoreapp3.1\Bin2Dec.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos\80Ideias\Bin2Dec\Bin2Dec\obj\Debug\netcoreapp3.1\Bin2Dec.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos\80Ideias\Bin2Dec\Bin2Dec\obj\Debug\netcoreapp3.1\Bin2Dec.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos\80Ideias\Bin2Dec\Bin2Dec\obj\Debug\netcoreapp3.1\Bin2Dec.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projetos\80Ideias\Bin2Dec\Bin2Dec\obj\Debug\netcoreapp3.1\Bin2Dec.pdb
